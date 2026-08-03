@@ -28,7 +28,7 @@ fetch("tr.json")
 
                     <p><strong>Published:</strong> ${item.date}</p>
 
-                    <a href="${item.pdf}" target="_blank" class="btn">
+                    <a href="./${item.pdf}" target="_blank" class="btn">
                         View / Download TR
                     </a>
                 `;
