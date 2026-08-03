@@ -1,0 +1,30 @@
+[
+    {
+        "course": "BCA",
+        "session": "2024-2028",
+        "semester": "Semester 1",
+        "date": "01 Aug 2026",
+        "pdf": "pdf/BCA_Sem1_2024.pdf"
+    },
+    {
+        "course": "BCA",
+        "session": "2024-2028",
+        "semester": "Semester 2",
+        "date": "01 Aug 2026",
+        "pdf": "pdf/BCA_Sem2_2024.pdf"
+    },
+    {
+        "course": "B.A",
+        "session": "2023-2027",
+        "semester": "Semester 3",
+        "date": "15 Jul 2026",
+        "pdf": "pdf/BCOM_Sem3_2023.pdf"
+    },
+    {
+        "course": "BA",
+        "session": "2022-2025",
+        "semester": "Semester 6",
+        "date": "10 Jun 2026",
+        "pdf": "pdf/BA_Sem6_2022.pdf"
+    }
+]
