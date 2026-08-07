@@ -12,5 +12,12 @@
         "semester": "Semester 1",
         "date": "26 May 2026",
         "pdf": "./2025_29bsc1.pdf"
-    } 
+    },
+    {
+        "course": "Bachelor of Science Sem- 1 (2024-28)",
+        "session": "2024-2028",
+        "semester": "Semester 1",
+        "date": "17 May 2025",
+        "pdf": "./BSCSEM124_28.pdf"
+    }
 ]
