@@ -5,7 +5,7 @@
         "semester": "Semester 1",
         "date": "04 Jul 2026",
         "pdf": "./basem12026_11zon.pdf"
-    }, 
+    },
     {
         "course": "Bachelor of Science Sem- 1 (2025-29)",
         "session": "2025-2029",
@@ -31,24 +31,24 @@
         "course": "Bachelor of Arts Sem- 1 (2024-28)",
         "session": "2024-2028 VOLUME:- 1",
         "semester": "Semester 1",
-        "date": "29 may 2025",
+        "date": "29 May 2025",
         "pdf": "./basem124_28a.pdf"
     },
-     {
+    {
         "course": "Bachelor of Arts Sem- 1 (2024-28)",
         "session": "2024-2028 VOLUME:- 2",
         "semester": "Semester 1",
-        "date": "29 may 2025",
+        "date": "29 May 2025",
         "pdf": "./basem124_28b.pdf"
     },
-     {
+    {
         "course": "Bachelor of Arts Sem- 1 (2024-28)",
         "session": "2024-2028 VOLUME:- 3",
         "semester": "Semester 1",
-        "date": "29 may 2025",
+        "date": "29 May 2025",
         "pdf": "./basem124_28c.pdf"
     },
-     {
+    {
         "course": "Bachelor of Arts Sem- 2 (2024-28)",
         "session": "2024-2028",
         "semester": "Semester 2",
@@ -70,7 +70,7 @@
         "pdf": "./status.pdf"
     },
     {
-       "course": "Bachelor of Arts Sem- 3 (2023-27)",
+        "course": "Bachelor of Arts Sem- 3 (2023-27)",
         "session": "2023-2027",
         "semester": "Semester 3",
         "date": "N/A",
@@ -89,5 +89,5 @@
         "semester": "Semester 1",
         "date": "N/A",
         "pdf": "./status.pdf"
-    },
-    ]
+    }
+]
