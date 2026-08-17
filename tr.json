@@ -70,7 +70,7 @@
         "pdf": "./status.pdf"
     },
     {
-        "course": "Bachelor of Arts Sem- 3 (2023-27)",
+       "course": "Bachelor of Arts Sem- 3 (2023-27)",
         "session": "2023-2027",
         "semester": "Semester 3",
         "date": "N/A",
@@ -90,25 +90,5 @@
         "date": "N/A",
         "pdf": "./status.pdf"
     },
-    {
-        "course": "Bachelor of Science Sem- 2 (2023-27)",
-        "session": "2023-2027",
-        "semester": "Semester 2",
-        "date": "N/A",
-        "pdf": "./status.pdf"
-    },
-    {
-        "course": "Bachelor of Science Sem- 3 (2023-27)",
-        "session": "2023-2027",
-        "semester": "Semester 3",
-        "date": "N/A",
-        "pdf": "./status.pdf"
-    },
-    {
-        "course": "Bachelor of Science Sem- 4 (2023-27)",
-        "session": "2023-2027",
-        "semester": "Semester 4",
-        "date": "N/A",
-        "pdf": "./status.pdf"
-    }
+    
 ]
